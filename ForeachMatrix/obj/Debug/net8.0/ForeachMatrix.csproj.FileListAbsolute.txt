@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\bin\Debug\net8.0\ForeachMatrix.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\bin\Debug\net8.0\ForeachMatrix.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\bin\Debug\net8.0\ForeachMatrix.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\bin\Debug\net8.0\ForeachMatrix.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\bin\Debug\net8.0\ForeachMatrix.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\refint\ForeachMatrix.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ForeachMatrix.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\ForeachMatrix\obj\Debug\net8.0\ref\ForeachMatrix.dll
