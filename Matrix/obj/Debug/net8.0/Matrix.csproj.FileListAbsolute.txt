@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\bin\Debug\net8.0\Matrix.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\bin\Debug\net8.0\Matrix.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\bin\Debug\net8.0\Matrix.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\bin\Debug\net8.0\Matrix.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Matrix\obj\Debug\net8.0\ref\Matrix.dll
