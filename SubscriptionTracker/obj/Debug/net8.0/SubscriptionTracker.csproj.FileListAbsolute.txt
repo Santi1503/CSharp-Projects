@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\bin\Debug\net8.0\SubscriptionTracker.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\bin\Debug\net8.0\SubscriptionTracker.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\bin\Debug\net8.0\SubscriptionTracker.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\bin\Debug\net8.0\SubscriptionTracker.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\bin\Debug\net8.0\SubscriptionTracker.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\refint\SubscriptionTracker.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\SubscriptionTracker.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SubscriptionTracker\obj\Debug\net8.0\ref\SubscriptionTracker.dll
