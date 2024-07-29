@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\bin\Debug\net8.0\Start-CSharp.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\bin\Debug\net8.0\Start-CSharp.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\bin\Debug\net8.0\Start-CSharp.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\bin\Debug\net8.0\Start-CSharp.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\bin\Debug\net8.0\Start-CSharp.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\refint\Start-CSharp.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\Start-CSharp.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Start-CSharp\obj\Debug\net8.0\ref\Start-CSharp.dll

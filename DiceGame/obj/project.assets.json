@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\CsharpProjetcs\\test3\\test3.csproj",
-      "projectName": "test3",
-      "projectPath": "C:\\Users\\Santiago\\Desktop\\CsharpProjetcs\\test3\\test3.csproj",
+      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\DiceGame\\DiceGame.csproj",
+      "projectName": "DiceGame",
+      "projectPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\DiceGame\\DiceGame.csproj",
       "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago\\Desktop\\CsharpProjetcs\\test3\\obj\\",
+      "outputPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\DiceGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"

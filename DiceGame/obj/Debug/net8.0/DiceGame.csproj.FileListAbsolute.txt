@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\bin\Debug\net8.0\DiceGame.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\bin\Debug\net8.0\DiceGame.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\bin\Debug\net8.0\DiceGame.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\bin\Debug\net8.0\DiceGame.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
