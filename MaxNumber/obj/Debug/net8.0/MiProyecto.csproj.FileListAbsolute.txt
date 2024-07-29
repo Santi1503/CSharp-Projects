@@ -1,0 +1,14 @@
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\bin\Debug\net8.0\MiProyecto.exe
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\bin\Debug\net8.0\MiProyecto.deps.json
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\bin\Debug\net8.0\MiProyecto.runtimeconfig.json
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\bin\Debug\net8.0\MiProyecto.dll
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\bin\Debug\net8.0\MiProyecto.pdb
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.dll
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\refint\MiProyecto.dll
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.pdb
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\MiProyecto.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\CsharpProjetcs\Test2\MiProyecto\obj\Debug\net8.0\ref\MiProyecto.dll
