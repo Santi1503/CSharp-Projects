@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\bin\Debug\net8.0\Flags.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\bin\Debug\net8.0\Flags.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\bin\Debug\net8.0\Flags.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\bin\Debug\net8.0\Flags.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\bin\Debug\net8.0\Flags.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\refint\Flags.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\Flags.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\Flags\obj\Debug\net8.0\ref\Flags.dll
