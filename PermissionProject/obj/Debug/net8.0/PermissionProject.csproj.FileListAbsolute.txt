@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\bin\Debug\net8.0\PermissionProject.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\bin\Debug\net8.0\PermissionProject.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\bin\Debug\net8.0\PermissionProject.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\bin\Debug\net8.0\PermissionProject.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\bin\Debug\net8.0\PermissionProject.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\refint\PermissionProject.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\PermissionProject.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\PermissionProject\obj\Debug\net8.0\ref\PermissionProject.dll
