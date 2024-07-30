@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\bin\Debug\net8.0\MonsterHero.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\bin\Debug\net8.0\MonsterHero.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\bin\Debug\net8.0\MonsterHero.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\bin\Debug\net8.0\MonsterHero.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\bin\Debug\net8.0\MonsterHero.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\refint\MonsterHero.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\MonsterHero.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\MonsterHero\obj\Debug\net8.0\ref\MonsterHero.dll

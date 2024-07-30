@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll
