@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\bin\Debug\net8.0\IfExamples.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\bin\Debug\net8.0\IfExamples.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\bin\Debug\net8.0\IfExamples.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\bin\Debug\net8.0\IfExamples.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\bin\Debug\net8.0\IfExamples.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\refint\IfExamples.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\IfExamples.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\IfExamples\obj\Debug\net8.0\ref\IfExamples.dll
