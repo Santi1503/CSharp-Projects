@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll
