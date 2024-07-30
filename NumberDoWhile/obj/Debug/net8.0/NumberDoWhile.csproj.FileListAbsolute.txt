@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\bin\Debug\net8.0\NumberDoWhile.exe
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\bin\Debug\net8.0\NumberDoWhile.deps.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\bin\Debug\net8.0\NumberDoWhile.runtimeconfig.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\bin\Debug\net8.0\NumberDoWhile.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\bin\Debug\net8.0\NumberDoWhile.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.sourcelink.json
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\refint\NumberDoWhile.dll
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.pdb
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\NumberDoWhile.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Proyectos\CSharp-Projects\NumberDoWhile\obj\Debug\net8.0\ref\NumberDoWhile.dll
