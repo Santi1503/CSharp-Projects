@@ -1,0 +1,15 @@
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\bin\Debug\net8.0\Values.exe
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\bin\Debug\net8.0\Values.deps.json
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\bin\Debug\net8.0\Values.runtimeconfig.json
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\bin\Debug\net8.0\Values.dll
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\bin\Debug\net8.0\Values.pdb
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.sourcelink.json
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.dll
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\refint\Values.dll
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.pdb
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\Values.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Escritorio\ProyectosPersonales\CSharp-Projects\Values\obj\Debug\net8.0\ref\Values.dll

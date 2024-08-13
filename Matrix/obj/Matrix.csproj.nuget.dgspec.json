@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\Matrix\\Matrix.csproj": {}
+    "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\Matrix\\Matrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\Matrix\\Matrix.csproj": {
+    "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\Matrix\\Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\Matrix\\Matrix.csproj",
+        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\Matrix\\Matrix.csproj",
         "projectName": "Matrix",
-        "projectPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\Matrix\\Matrix.csproj",
-        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\Matrix\\obj\\",
+        "projectPath": "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\Matrix\\Matrix.csproj",
+        "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\Matrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

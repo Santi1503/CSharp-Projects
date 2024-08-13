@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj": {}
+    "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj": {
+    "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj",
+        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj",
         "projectName": "SubscriptionTracker",
-        "projectPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj",
-        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\CSharp-Projects\\SubscriptionTracker\\obj\\",
+        "projectPath": "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\SubscriptionTracker\\SubscriptionTracker.csproj",
+        "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gomez\\OneDrive\\Escritorio\\ProyectosPersonales\\CSharp-Projects\\SubscriptionTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
